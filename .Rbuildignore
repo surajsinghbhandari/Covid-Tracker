@@ -1,0 +1,14 @@
+^coronavirus\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE\.md$
+^data_raw$
+^docs$
+^csv$
+^.github$
+^CRAN-RELEASE$
+^doc$
+^Meta$
+^vignettes$
+^vignettes/spatial_coronavirus.Rmd$
+^vignettes/intro_coronavirus_dataset.Rmd$
